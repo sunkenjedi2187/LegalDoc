@@ -1,0 +1,9 @@
+## How to use this app:
+1. Use 'source venv/bin/activate' to activate virtual environment
+2. `pip install -r requirements.txt`
+3. Add Azure OpenAI keys to `.env` (Should be already done)
+4. Place contracts in `./legal_docs`
+5. `streamlit run app.py`
+6. Move the legal documents that you want to analyse into the ./legal_docs directory
+7. Type your question, or choose from a list of sample questions and click Analyse
+8. Click 'Generate Solutions' to recieve key solutions to improve the Risk Rating of the chosen Contract

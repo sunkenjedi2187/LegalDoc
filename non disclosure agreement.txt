@@ -1,0 +1,31 @@
+NON-DISCLOSURE AGREEMENT
+
+This Agreement is made on January 1, 2025, between:
+
+1. DISCLOSING PARTY: TechCorp Inc. ("Discloser")
+2. RECEIVING PARTY: Innovate LLC ("Recipient")
+
+1. CONFIDENTIALITY OBLIGATIONS
+1.1 Recipient shall protect Discloser's confidential information ("Confidential Information") using reasonable care (at least equivalent to its own proprietary information).
+1.2 Confidential Information includes:
+   - Business strategies
+   - Customer lists
+   - Technical specifications (e.g., product designs)
+   - Financial data
+1.3 Exclusions: Information that is publicly available or lawfully obtained from third parties.
+
+2. TERM AND TERMINATION
+2.1 This Agreement remains in effect for 3 years from the Effective Date.
+2.2 Either party may terminate with 30 days written notice.
+2.3 Survival: Sections 1 (Confidentiality) and 4 (Liability) survive termination.
+
+3. LIABILITY
+3.1 No consequential damages.
+3.2 Maximum liability capped at $100,000.
+
+4. GOVERNING LAW
+This Agreement is governed by the laws of California.
+
+SIGNATURES:
+_______________________          _______________________
+TechCorp Inc.                    Innovate LLC
